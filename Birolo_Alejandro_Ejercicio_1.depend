@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1654007579 source:c:\users\laboratorios\desktop\birolo_alejandro_ejercicio_1\main.c
+	"main.h"
+	<string.h>
+
+1654006132 c:\users\laboratorios\desktop\birolo_alejandro_ejercicio_1\main.h
+	<stdio.h>
+	<stdlib.h>
+	"Cadena.h"
+
+1654002212 source:c:\users\laboratorios\desktop\birolo_alejandro_ejercicio_1\cadena.c
+	"Cadena.h"
+
+1654004839 c:\users\laboratorios\desktop\birolo_alejandro_ejercicio_1\cadena.h
+	<stdlib.h>
+
+1654007784 source:e:\descargas\nueva carpeta (2)\birolo_alejandro_ejercicio_1\cadena.c
+	"Cadena.h"
+
+1654007784 e:\descargas\nueva carpeta (2)\birolo_alejandro_ejercicio_1\cadena.h
+	<stdlib.h>
+
+1654037514 source:e:\descargas\nueva carpeta (2)\birolo_alejandro_ejercicio_1\main.c
+	"main.h"
+	<string.h>
+
+1654007784 e:\descargas\nueva carpeta (2)\birolo_alejandro_ejercicio_1\main.h
+	<stdio.h>
+	<stdlib.h>
+	"Cadena.h"
+
